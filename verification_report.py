@@ -65,3 +65,5 @@ if uploaded_file is not None:
                     st.success(f"File exported successfully to {save_path}")
     else:
         st.warning("Required columns not found: 'Roll No', 'Verification Result', 'Type'")
+
+st.write("Made by Vikrant Kumar")
