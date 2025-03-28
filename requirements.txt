@@ -2,3 +2,4 @@ pillow
 streamlit
 pandas
 openpyxl
+XlsxWriter
